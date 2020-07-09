@@ -173,13 +173,13 @@
                     administrativos de ventas online y mucho más pensando en pequeñas y medianas empresas. Nuestros
                     diseños permiten optimizar de un modo eficaz y sencillo todos los movimientos que requiera la
                     empresa. Contactarnos es sumamente fácil. Puedes escribirnos a nuestro whatsapp pulsando en la
-                    burbuja. Otra opción es Llenar el formulaio.</p>
+                    burbuja que flota en la parte inferior derecha.</p>
             </div>
 
         </div>
     </section>
     <!-- Contact-->
-    <section class="page-section" id="contact">
+    <!-- <section class="page-section" id="contact">
         <div class="container">
             <div class="text-center">
                 <h2 class="section-heading mb-5 text-uppercase">Contáctame</h2>
@@ -223,7 +223,7 @@
                 </div>
             </form>
         </div>
-    </section>
+    </section> -->
     <!-- Footer-->
     <footer class="footer py-4">
         <div class="container">
@@ -339,7 +339,7 @@
     <!-- Third party plugin JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <!-- Core theme JS-->
-    <script src="js/scripts.js"></script>
+    <!-- <script src="js/scripts.js"></script> -->
     <!-- Form contact -->
     <script src="js/mail.js" type="module"></script>
 </body>

@@ -16,7 +16,6 @@ export default class Frame {
            method:'POST',
            body:form
        }).then(res=>{
-         
          return res.json();
        }).then(data=>{
          if(data.status===200){
