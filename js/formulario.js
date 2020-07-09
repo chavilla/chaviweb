@@ -13,12 +13,12 @@ export default class Frame {
       form.append('phone',this.data.phone);
       
     
+      console.log(form); return;
         
        fetch('send.php',{
            method:'POST',
            body:form
        }).then(res=>{
-         console.log(res); return;
          
          return res.json();
        }).then(data=>{
