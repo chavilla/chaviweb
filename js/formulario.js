@@ -11,9 +11,6 @@ export default class Frame {
       form.append('message',this.data.message);
       form.append('name',this.data.name);
       form.append('phone',this.data.phone);
-      
-    
-      console.log(form); return;
         
        fetch('send.php',{
            method:'POST',

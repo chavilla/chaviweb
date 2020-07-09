@@ -5,9 +5,6 @@ const campos = document.querySelectorAll(".campo");
 
 let datos = {};
 
-console.log('Hola');
-
-
 //Events
 function listener() {
   frm.addEventListener("submit", (e) => {
